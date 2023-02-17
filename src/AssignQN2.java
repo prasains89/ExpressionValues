@@ -1,3 +1,8 @@
+/**
+ *Calculating the numeric values of the following expressions*@ Author: PRASAIN, SABINA
+ *@ Assignment: CSCI428 Assign2-QnY *@ Date: 02-16-2023
+ */
+
 public class ExpressionValues {
     public static void main(String[] args) {
         int a = 4 + 6 * 2;
